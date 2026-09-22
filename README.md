@@ -5,7 +5,7 @@
 - **Weekly Review Assistant README:** [README_Weekly_Review_Assistant.md](README_Weekly_Review_Assistant.md)
 - **Retrospective:** [Retrospective.md](Retrospective.md)
 - **Build-in-public post:** [Build_In_Public_Post.md](Build_In_Public_Post.md) — also posted at: [LINK ONCE POSTED PUBLICLY]
-- **Demo video:**https://drive.google.com/file/d/1-C92IkRKZQpv46CLb_YFhizfs0dpoYJq/view?usp=sharing
+- **Demo video:** https://drive.google.com/file/d/1-C92IkRKZQpv46CLb_YFhizfs0dpoYJq/view?usp=sharing
 
 ## Portfolio Build Trail
 - Week 1 — Sitemap, proof statement, Claude Project setup
